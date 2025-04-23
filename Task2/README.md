@@ -56,7 +56,7 @@ The final dashboard includes the following visuals:
 
 ## 📎 Files Included
 
-- `Task2.pbix` – Power BI file (not uploaded if repo is public)
+- `Task2.pbix` – Power BI file 
 - `dashboard_output.pdf` – Exported dashboard visuals
 - `screenshot/` – Screenshots of all visualizations
 - `superstore_dataset.csv` – Original dataset
